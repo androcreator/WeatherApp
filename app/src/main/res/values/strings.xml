@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherForcast</string>
+    <string name="title_activity_loading">LoadingActivity</string>
+    <string name="retry">Retry</string>
+    <string name="error">Something went wrong at our end</string>
+    <string name="loading">Loading...</string>
+
+</resources>

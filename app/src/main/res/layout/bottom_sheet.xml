@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/weather_container"
+        android:layout_width="match_parent"
+        android:layout_height="340dp"
+        style="@style/AppTheme.bottomSheet"
+        android:background="@android:color/white">
+
+
+    <ListView
+            android:id="@+id/bottomsheetdata_lv"
+            android:layout_width="match_parent"
+            android:dividerHeight="2dp"
+            android:layout_height="wrap_content">
+    </ListView>
+
+</RelativeLayout>

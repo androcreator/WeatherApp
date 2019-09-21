@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <color name="weather_into_activity_bg">#F5F6F7</color>
+    <color name="error_message_bg">#FFFFFF</color>
+    <color name="retry_btn_color">#463737</color>
+    <color name="error_screen_bg">#e85959</color>
+
+</resources>
